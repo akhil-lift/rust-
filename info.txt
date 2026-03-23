@@ -4,4 +4,20 @@ does not hide complexity
 memory safe
 creating backend 
 creating browsers example of firefox 
-
+use cargo init to setup a project
+use cargo run to run a project 
+use cargo build to build a project 
+use cargo check to check a project 
+use cargo test to test a project 
+use cargo doc to generate documentation 
+use cargo clippy to check for clippy errors 
+use cargo fmt to format a project 
+use cargo clippy to check for clippy errors 
+use cargo fmt to format a project   
+designed mainly for performance and saftey 
+requires less memory compared to other languages
+mainly used for web servers creating games and operating systems
+rust compiler ignore white spaces
+to compile use rustc filename.rs and to run use ./filename
+all variables are immutable by default
+to make them mutable use mut keyword

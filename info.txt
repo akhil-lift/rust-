@@ -1,0 +1,7 @@
+rust is a powerful language and very fast language like c++
+if your program compiles then it probably runs
+does not hide complexity 
+memory safe
+creating backend 
+creating browsers example of firefox 
+
